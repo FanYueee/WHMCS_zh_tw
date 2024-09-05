@@ -1746,7 +1746,7 @@ $_LANG['cancellationrequested'] = "已申請取消";
 $_LANG['yourrecenttickets'] = "您近期的服務單";
 
 $_LANG['domains']['deTermsDescription1'] = "若要註冊新網域名稱、轉移網域名稱或變更註冊人資訊，註冊人必須明確接受 .DE 條款與條件。";
-$_LANG['domains']['deTermsDescription2'] = "(參閱 .de 條款和條件的完整文字：http://www.denic.de/en/bedingungen.html。)"
+$_LANG['domains']['deTermsDescription2'] = "(參閱 .de 條款和條件的完整文字： http://www.denic.de/en/bedingungen.html。)";
 $_LANG['directDebitPageTitle'] = "直撥付款";
 $_LANG['directDebitHeader'] = "直接借記付款";
 $_LANG['directDebitErrorNoBankName'] = "您必須輸入您的銀行名稱";
@@ -3978,7 +3978,7 @@ $_LANG['store']['ox']['feature3']['detail'] = "您最喜歡的電子郵件功能
 $_LANG['store']['ox']['feature4']['title'] = "增加生產力應用程式！";
 $_LANG['store']['ox']['feature4']['detail'] = "使用 App Suite 強大的線上應用程式建立、編輯和分享 Microsoft Office 文件，例如 Word、Excel 和 PowerPoint。";
 $_LANG['store']['ox']['feature5']['title'] = "帶領您的應用程式";
-$_LANG['store']['ox']['feature5']['detail'] = "輕鬆將您最愛的電子郵件服務或應用程式添加到 App Suite；例如 Gmail、Dropbox、Zoom（即將推出）等等！"
+$_LANG['store']['ox']['feature5']['detail'] = "輕鬆將您最愛的電子郵件服務或應用程式添加到 App Suite；例如 Gmail、Dropbox、Zoom（即將推出）等等！";
 $_LANG['store']['ox']['feature6']['title'] = "隱私很重要";
 $_LANG['store']['ox']['feature6']['detail'] = "App Suite，或我們自己，永遠不會與任何第三方閱讀、掃描或分享您的任何個人或電子郵件資訊。永遠。";
 $_LANG['store']['ox']['pricingHeadline'] = "價格與方案";
@@ -4442,7 +4442,7 @@ $_LANG['recommendations']['title']['yourOrder'] = "根據您的訂單";
 $_LANG['recommendations']['title']['yourProducts'] = "根據您的產品";
 $_LANG['recommendations']['explain']['generic'] = "根據您的訂單，我們推薦：";
 $_LANG['recommendations']['explain']['product'] = "根據此商品，我們推薦：";
-因為您訂購了 **:productName**，我們推薦：
+$_LANG['recommendations']['explain']['ordered'] = "因為您訂購了 **:productName**，我們推薦：";
 $_LANG['recommendations']['learnMore'] = "點擊了解更多。";
 $_LANG['recommendations']['productAdded'] = "商品已添加";
 $_LANG['recommendations']['taglinePlaceholder'] = "此產品無商品標語描述。";
